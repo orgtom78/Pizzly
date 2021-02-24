@@ -13,7 +13,7 @@
       "User-Agent": "Pizzly",
       "Authorization": "Bearer ${auth.accessToken}",
       "Accept": "application/json",
-      "xero-tenant-id": "1cc737fe-06a6-450a-990d-c74c3584fd92"
+      "Xero-Tenant-Id": "1cc737fe-06a6-450a-990d-c74c3584fd92"
     }
   }
 }
